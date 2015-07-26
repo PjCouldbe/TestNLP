@@ -1,0 +1,4 @@
+nsi
+licensee
+nearfield
+c.f.r.

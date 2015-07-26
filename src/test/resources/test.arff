@@ -1,0 +1,10 @@
+@relation ProcessedLicenses1
+
+@attribute Attribute1 NUMERIC
+@attribute Attribute2 NUMERIC
+@attribute Attribute3 NUMERIC
+
+@data
+0.0,0.0,0.0
+0.0,0.0,0.0
+0.0,0.0,0.0

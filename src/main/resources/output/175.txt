@@ -1,0 +1,7 @@
+berkelei
+<organization>
+bsd-2-claus
+contributors
+claus
+simplifi
+bsd

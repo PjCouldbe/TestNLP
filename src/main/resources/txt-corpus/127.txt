@@ -1,0 +1,1 @@
+LegalInformation General Purpose Software License Agreement All National Instruments software products are licensed under the appropriate NI software license. . for free. 2012 National Instruments Corporation. All rights reserved.
