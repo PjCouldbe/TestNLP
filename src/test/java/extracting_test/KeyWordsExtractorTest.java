@@ -49,6 +49,39 @@ public class KeyWordsExtractorTest extends Assert {
 	}
 	
 	@Test
+	public void testWithPhrase() throws IOException {
+		String[] withPhraseData = {DATA[0], "There is an APACHE LICENSE FOUNDATION here."};
+		
+		Multiset<String>[] sets = ObjectArrays.newArray(Multiset.class, 2);
+		
+		PorterStemmer stemmer = new PorterStemmer();
+		
+		Multiset<String> set1 = HashMultiset.create();
+			set1.add( stemmer.stem("mother") ); 
+			set1.add( stemmer.stem("wash") ); 
+			set1.add( stemmer.stem("window") );
+			
+		Multiset<String> set2 = HashMultiset.create();
+			set2.add("apache license foundation"); 
+			set2.add("is");
+			set2.add("here");
+			
+		Multiset<String> dfSet = HashMultiset.create();
+			dfSet.addAll( set1.elementSet() );  
+			dfSet.addAll( set2.elementSet() ); 
+			
+		sets[0] = set1; 
+		sets[1] = set2;
+		
+		double[][] expected = computeTf_idf_values(dfSet, sets);
+		
+		KeyWordsExtractor extractor = new KeyWordsExtractor(withPhraseData);
+		double[][] actual = extractor.extractWords();
+		
+		assertTrue( deepEquals(expected, actual) );
+	}
+	
+	@Test
 	public void testWithNulls() throws IOException {
 		String[] withNullsData = {DATA[0], null, DATA[2]};
 		

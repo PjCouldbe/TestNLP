@@ -1,3 +1,2 @@
->
 rhid.com/fair
-<copyright
+<copyright information> usage

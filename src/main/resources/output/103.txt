@@ -1,8 +1,11 @@
 subscript
+team
 quebec
+sampl
 premis
 xceed
 license
 longueuil
 blueprint
 develop
+code

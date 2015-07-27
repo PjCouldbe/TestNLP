@@ -1,7 +1,9 @@
-berkelei
 <organization>
-bsd-2-claus
+univers
+omit
 contributors
+<year>
+above copyright notice
 claus
-simplifi
+<owner>
 bsd

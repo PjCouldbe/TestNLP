@@ -1,7 +1,9 @@
 inform
 finit
+abil
 detect
 identifi
 collect
 symantec
+activ
 correl

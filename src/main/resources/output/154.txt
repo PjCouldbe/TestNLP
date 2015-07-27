@@ -1,4 +1,5 @@
+restrictions.
 nsi
+software
 licensee
-nearfield
 c.f.r.

@@ -1,11 +1,6 @@
-gpl,
 load
 undertak
-de
-cecill
 license
-gnu
-gpl
 entitl
 mean
 contribut
@@ -13,11 +8,15 @@ econom
 initial
 pari
 scientif
+franc
 french
+legisl
+code
 external
 articl
 licensor
-affero
+gnu gpl, gnu affero gpl
+experienc
 holder
 modul
 said

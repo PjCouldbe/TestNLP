@@ -1,17 +1,20 @@
+gnu general public license
 work
+version
 sourc
-gnu
 convei
 you
 cover
+circumvent
+gnu affero general public license
 correspond
 propag
 permiss
 transact
 contributor
 program
+major
 affero
 patent
-public
 holder
 run

@@ -3,13 +3,16 @@ default
 license
 [note
 confidenti
-application(
 univers
 deriv
 report
 exhibit
+product
 university
+equipment
 insur
+prosecut
+patent(
 approv
 sublicense
 articl

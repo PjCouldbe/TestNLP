@@ -1,7 +1,6 @@
 load
+intellectual property notice
 undertak
-forth
-de
 license
 entitl
 mean
@@ -10,10 +9,13 @@ econom
 initial
 pari
 scientif
+franc
 french
+legisl
 external
 articl
 licensor
+experienc
 holder
 modul
 over

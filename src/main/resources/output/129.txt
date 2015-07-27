@@ -1,8 +1,10 @@
-prioriti
+single user licenses
 purchas
+single user license
 license
-unlimit
+unlimited developer license
 develop
 organiz
 user
 ipdstech
+ssl

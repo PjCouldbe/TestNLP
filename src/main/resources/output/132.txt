@@ -1,5 +1,10 @@
+texa
 gtk
+gtk.
 customer
 custom
+failures
 licensed
 pti
+travi
+geostructural tool kit

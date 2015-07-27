@@ -1,21 +1,20 @@
-company
 relat
 doc
 conform
 improv
-rate
 ie
 license
+current update fee
 confidenti
 laps
-configur
 coven
 manual
 materi
 elsewher
-enhancement
-search
+agreement
 schedul
 know-how
-pdf
+party receiving license
 licensor
+particular software configuration
+party granting license

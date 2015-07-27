@@ -1,9 +1,11 @@
 non-fre
 work
 we
-gnu
-lesser
-ordinari
+lesser general public license
+free software foundation
+freedom
+ordinary general public license
 librari
 library
-public
+link
+ordinary gnu general public license

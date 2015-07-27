@@ -35,7 +35,7 @@ public class DataReader {
 			return null;
 		}
 		
-		if (Strings.isNullOrEmpty(res.toString()) || !res.toString().matches("^.*[A-Za-zА-Яа-я]+.*$")) {
+		if (Strings.isNullOrEmpty(res.toString()) || !res.toString().matches("^.*[A-Za-z]+.*$")) {
 			return null;
 		}
 		return res.toString();

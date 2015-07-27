@@ -1,6 +1,8 @@
-dealings
+damages or other liability
+or other dealings
+or anyone distributing
+machine-executable object code
 is"
-machine-execut
-distributing
-processor
-anyone
+source language processor
+tort or otherwise
+above license grant

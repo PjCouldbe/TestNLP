@@ -1,1 +1,4 @@
-legalinform
+legalinformation general purpose software license agreement
+appropriate ni software license
+national instruments software products
+national instruments corporation

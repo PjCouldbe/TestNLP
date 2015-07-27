@@ -1,4 +1,7 @@
 mainten
+third-party software products
 i4ware
 i4war
 custom
+educat
+open source project license

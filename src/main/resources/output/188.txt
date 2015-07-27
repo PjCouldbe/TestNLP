@@ -1,2 +1,5 @@
 eupl-1.1
-european
+osi-approv
+matrix
+european union public license
+://joinup.ec.europa.eu/software/page/eupl

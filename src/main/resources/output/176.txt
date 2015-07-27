@@ -1,5 +1,7 @@
+bsd-3-claus
+here
+2-clause license template
 contributors
-holders
 <year>
+above copyright notice
 <owner>
-bsd
